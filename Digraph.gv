@@ -1,0 +1,1357 @@
+digraph {
+	362 [label="Eleanor Of Provence
+362
+June 25, 1291
+{'spouse': 'Henry III', 'son': 'Edward I'}"]
+	482 [label="Henry III
+482
+November 16, 1272
+{'spouse': 'Eleanor Of Provence', 'father': 'John', 'son': 'Edward I'}
+['king (1216-1272), England']
+['house of Plantagenet']"]
+	362 -> 482
+	606 [label="Edward I
+606
+July 7, 1307
+{'spouse': 'Eleanor Of Castile', 'father': 'Henry III', 'mother': 'Eleanor Of Provence', 'son': 'Edward II'}
+['king (1272-1307), England']
+['house of Plantagenet']"]
+	362 -> 606
+	563 [label="John
+563
+October 18, 1216
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'son': 'Henry III', 'brother': 'Henry The Young King'}
+['king (1199-1216), England']
+['house of Plantagenet']"]
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	563 -> 206
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	563 -> 406
+	482 [label="Henry III
+482
+November 16, 1272
+{'spouse': 'Eleanor Of Provence', 'father': 'John', 'son': 'Edward I'}
+['king (1216-1272), England']
+['house of Plantagenet']"]
+	563 -> 482
+	101 [label="Henry The Young King
+101
+June 11, 1183
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}
+['house of Plantagenet']"]
+	563 -> 101
+	606 [label="Edward I
+606
+July 7, 1307
+{'spouse': 'Eleanor Of Castile', 'father': 'Henry III', 'mother': 'Eleanor Of Provence', 'son': 'Edward II'}
+['king (1272-1307), England']
+['house of Plantagenet']"]
+	886 [label="Eleanor Of Castile
+886
+November 28, 1290
+{'spouse': 'Edward I', 'father': 'Ferdinand III', 'son': 'Edward II'}"]
+	606 -> 886
+	482 [label="Henry III
+482
+November 16, 1272
+{'spouse': 'Eleanor Of Provence', 'father': 'John', 'son': 'Edward I'}
+['king (1216-1272), England']
+['house of Plantagenet']"]
+	606 -> 482
+	362 [label="Eleanor Of Provence
+362
+June 25, 1291
+{'spouse': 'Henry III', 'son': 'Edward I'}"]
+	606 -> 362
+	191 [label="Edward II
+191
+['September 1327 (aged 43) ', ' England']
+{'spouse': 'Isabella of France', 'father': 'Edward I', 'mother': 'Eleanor Of Castile', 'son': 'Edward III'}
+['king (1307-1327), England']
+['house of Plantagenet']"]
+	606 -> 191
+	482 [label="Henry III
+482
+November 16, 1272
+{'spouse': 'Eleanor Of Provence', 'father': 'John', 'son': 'Edward I'}
+['king (1216-1272), England']
+['house of Plantagenet']"]
+	362 [label="Eleanor Of Provence
+362
+June 25, 1291
+{'spouse': 'Henry III', 'son': 'Edward I'}"]
+	482 -> 362
+	563 [label="John
+563
+October 18, 1216
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'son': 'Henry III', 'brother': 'Henry The Young King'}
+['king (1199-1216), England']
+['house of Plantagenet']"]
+	482 -> 563
+	606 [label="Edward I
+606
+July 7, 1307
+{'spouse': 'Eleanor Of Castile', 'father': 'Henry III', 'mother': 'Eleanor Of Provence', 'son': 'Edward II'}
+['king (1272-1307), England']
+['house of Plantagenet']"]
+	482 -> 606
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	206 -> 406
+	673 [label="Geoffrey IV
+673
+August 19, 1186
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}"]
+	206 -> 673
+	478 [label="Geoffrey IV
+478
+September 7, 1151
+{'spouse': 'Matilda', 'father': 'Fulk', 'son': 'Henry II'}"]
+	206 -> 478
+	219 [label="Matilda
+219
+September 10, 1167
+{'spouse': 'Geoffrey IV', 'father': 'Henry I', 'son': 'Henry II', 'brother': 'William the Aetheling'}"]
+	206 -> 219
+	899 [label="Richard I
+899
+April 6, 1199
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'Geoffrey IV'}
+['king (1189-1199), England']
+['house of Plantagenet']"]
+	206 -> 899
+	855 [label="Richard I
+855
+['996']
+{'father': 'William I', 'son': 'Richard II'}"]
+	206 -> 855
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	663 [label="Louis VII
+663
+September 18, 1180
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Louis VI'}
+['king (1137-1180), France']
+['Capetian dynasty']"]
+	406 -> 663
+	157 [label="William X
+157
+April 9, 1137
+{'daughter': 'Eleanor of Aquitaine'}"]
+	406 -> 157
+	673 [label="Geoffrey IV
+673
+August 19, 1186
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}"]
+	406 -> 673
+	478 [label="Geoffrey IV
+478
+September 7, 1151
+{'spouse': 'Matilda', 'father': 'Fulk', 'son': 'Henry II'}"]
+	406 -> 478
+	899 [label="Richard I
+899
+April 6, 1199
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'Geoffrey IV'}
+['king (1189-1199), England']
+['house of Plantagenet']"]
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	899 -> 206
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	899 -> 406
+	673 [label="Geoffrey IV
+673
+August 19, 1186
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}"]
+	899 -> 673
+	478 [label="Geoffrey IV
+478
+September 7, 1151
+{'spouse': 'Matilda', 'father': 'Fulk', 'son': 'Henry II'}"]
+	899 -> 478
+	673 [label="Geoffrey IV
+673
+August 19, 1186
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}"]
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	673 -> 206
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	673 -> 406
+	563 [label="John
+563
+October 18, 1216
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'son': 'Henry III', 'brother': 'Henry The Young King'}
+['king (1199-1216), England']
+['house of Plantagenet']"]
+	673 -> 563
+	101 [label="Henry The Young King
+101
+June 11, 1183
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}
+['house of Plantagenet']"]
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	101 -> 206
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	101 -> 406
+	563 [label="John
+563
+October 18, 1216
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'son': 'Henry III', 'brother': 'Henry The Young King'}
+['king (1199-1216), England']
+['house of Plantagenet']"]
+	101 -> 563
+	886 [label="Eleanor Of Castile
+886
+November 28, 1290
+{'spouse': 'Edward I', 'father': 'Ferdinand III', 'son': 'Edward II'}"]
+	606 [label="Edward I
+606
+July 7, 1307
+{'spouse': 'Eleanor Of Castile', 'father': 'Henry III', 'mother': 'Eleanor Of Provence', 'son': 'Edward II'}
+['king (1272-1307), England']
+['house of Plantagenet']"]
+	886 -> 606
+	110 [label="Ferdinand III
+110
+May 30, 1252
+{'father': 'Alfonso IX', 'daughter': 'Eleanor Of Castile', 'son': 'Alfonso X'}
+['king (1230-1252), Leon ', ' king (1217-1252), Castile']"]
+	886 -> 110
+	191 [label="Edward II
+191
+['September 1327 (aged 43) ', ' England']
+{'spouse': 'Isabella of France', 'father': 'Edward I', 'mother': 'Eleanor Of Castile', 'son': 'Edward III'}
+['king (1307-1327), England']
+['house of Plantagenet']"]
+	886 -> 191
+	191 [label="Edward II
+191
+['September 1327 (aged 43) ', ' England']
+{'spouse': 'Isabella of France', 'father': 'Edward I', 'mother': 'Eleanor Of Castile', 'son': 'Edward III'}
+['king (1307-1327), England']
+['house of Plantagenet']"]
+	502 [label="Isabella of France
+502
+August 23, 1358
+{'spouse': 'Edward II', 'father': 'Philip IV', 'son': 'Edward III'}"]
+	191 -> 502
+	606 [label="Edward I
+606
+July 7, 1307
+{'spouse': 'Eleanor Of Castile', 'father': 'Henry III', 'mother': 'Eleanor Of Provence', 'son': 'Edward II'}
+['king (1272-1307), England']
+['house of Plantagenet']"]
+	191 -> 606
+	886 [label="Eleanor Of Castile
+886
+November 28, 1290
+{'spouse': 'Edward I', 'father': 'Ferdinand III', 'son': 'Edward II'}"]
+	191 -> 886
+	426 [label="Edward III
+426
+June 21, 1377
+{'spouse': 'Philippa Of Hainaut', 'father': 'Edward II', 'mother': 'Isabella of France', 'son': 'Edward The Black Prince'}
+['king (1327-1377), England']
+['house of Plantagenet']"]
+	191 -> 426
+	478 [label="Geoffrey IV
+478
+September 7, 1151
+{'spouse': 'Matilda', 'father': 'Fulk', 'son': 'Henry II'}"]
+	219 [label="Matilda
+219
+September 10, 1167
+{'spouse': 'Geoffrey IV', 'father': 'Henry I', 'son': 'Henry II', 'brother': 'William the Aetheling'}"]
+	478 -> 219
+	395 [label="Fulk
+395
+['November 1143 (aged 51) ', ' Ê¿Akko ', ' Israel']
+{'father': 'Fulk IV', 'son': 'Amalric I'}
+['king (1131-1143), kingdom of Jerusalem']"]
+	478 -> 395
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	478 -> 206
+	219 [label="Matilda
+219
+September 10, 1167
+{'spouse': 'Geoffrey IV', 'father': 'Henry I', 'son': 'Henry II', 'brother': 'William the Aetheling'}"]
+	673 [label="Geoffrey IV
+673
+August 19, 1186
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'John'}"]
+	219 -> 673
+	478 [label="Geoffrey IV
+478
+September 7, 1151
+{'spouse': 'Matilda', 'father': 'Fulk', 'son': 'Henry II'}"]
+	219 -> 478
+	651 [label="Henry I
+651
+December 1, 1135
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'daughter': 'Matilda', 'son': 'Robert, earl of Gloucester', 'brother': 'William II', 'sister': 'Adela'}
+['king (1100-1135), England']
+['house of Normandy']"]
+	219 -> 651
+	206 [label="Henry II
+206
+July 6, 1189
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Geoffrey IV', 'mother': 'Matilda', 'son': 'Richard I'}
+['king (1154-1189), England']
+['house of Plantagenet']"]
+	219 -> 206
+	830 [label="William the Aetheling
+830
+November 25, 1120
+{'father': 'Henry I', 'sister': 'Matilda'}"]
+	219 -> 830
+	663 [label="Louis VII
+663
+September 18, 1180
+{'spouse': 'Eleanor of Aquitaine', 'father': 'Louis VI'}
+['king (1137-1180), France']
+['Capetian dynasty']"]
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	663 -> 406
+	255 [label="Louis VI
+255
+August 1, 1137
+['king (1108-1137), France']
+['Capetian dynasty']"]
+	663 -> 255
+	157 [label="William X
+157
+April 9, 1137
+{'daughter': 'Eleanor of Aquitaine'}"]
+	406 [label="Eleanor of Aquitaine
+406
+April 1, 1204
+{'spouse': 'Louis VII', 'father': 'William X', 'son': 'Geoffrey IV'}"]
+	157 -> 406
+	110 [label="Ferdinand III
+110
+May 30, 1252
+{'father': 'Alfonso IX', 'daughter': 'Eleanor Of Castile', 'son': 'Alfonso X'}
+['king (1230-1252), Leon ', ' king (1217-1252), Castile']"]
+	162 [label="Alfonso IX
+162
+September 24, 1230
+{'father': 'Ferdinand II', 'son': 'Ferdinand III'}
+['king (1188-1230), Leon']"]
+	110 -> 162
+	886 [label="Eleanor Of Castile
+886
+November 28, 1290
+{'spouse': 'Edward I', 'father': 'Ferdinand III', 'son': 'Edward II'}"]
+	110 -> 886
+	489 [label="Alfonso X
+489
+April 4, 1284
+{'father': 'Ferdinand III', 'son': 'Sancho IV'}
+['king (1252-1284), Castile']"]
+	110 -> 489
+	502 [label="Isabella of France
+502
+August 23, 1358
+{'spouse': 'Edward II', 'father': 'Philip IV', 'son': 'Edward III'}"]
+	191 [label="Edward II
+191
+['September 1327 (aged 43) ', ' England']
+{'spouse': 'Isabella of France', 'father': 'Edward I', 'mother': 'Eleanor Of Castile', 'son': 'Edward III'}
+['king (1307-1327), England']
+['house of Plantagenet']"]
+	502 -> 191
+	408 [label="Philip IV
+408
+November 29, 1314
+{'spouse': 'Joan I', 'daughter': 'Isabella of France'}
+['king (1285-1314), France']
+['Capetian dynasty']"]
+	502 -> 408
+	426 [label="Edward III
+426
+June 21, 1377
+{'spouse': 'Philippa Of Hainaut', 'father': 'Edward II', 'mother': 'Isabella of France', 'son': 'Edward The Black Prince'}
+['king (1327-1377), England']
+['house of Plantagenet']"]
+	502 -> 426
+	426 [label="Edward III
+426
+June 21, 1377
+{'spouse': 'Philippa Of Hainaut', 'father': 'Edward II', 'mother': 'Isabella of France', 'son': 'Edward The Black Prince'}
+['king (1327-1377), England']
+['house of Plantagenet']"]
+	381 [label="Philippa Of Hainaut
+381
+August 15, 1369
+{'spouse': 'Edward III', 'son': 'Edward The Black Prince'}"]
+	426 -> 381
+	191 [label="Edward II
+191
+['September 1327 (aged 43) ', ' England']
+{'spouse': 'Isabella of France', 'father': 'Edward I', 'mother': 'Eleanor Of Castile', 'son': 'Edward III'}
+['king (1307-1327), England']
+['house of Plantagenet']"]
+	426 -> 191
+	502 [label="Isabella of France
+502
+August 23, 1358
+{'spouse': 'Edward II', 'father': 'Philip IV', 'son': 'Edward III'}"]
+	426 -> 502
+	473 [label="Edward The Black Prince
+473
+June 8, 1376
+{'father': 'Edward III', 'mother': 'Philippa Of Hainaut', 'son': 'Richard II'}"]
+	426 -> 473
+	395 [label="Fulk
+395
+['November 1143 (aged 51) ', ' Ê¿Akko ', ' Israel']
+{'father': 'Fulk IV', 'son': 'Amalric I'}
+['king (1131-1143), kingdom of Jerusalem']"]
+	462 [label="Fulk IV
+462
+April 14, 1109
+{'son': 'Fulk'}"]
+	395 -> 462
+	359 [label="Amalric I
+359
+July 11, 1174
+{'father': 'Fulk', 'son': 'Baldwin IV', 'brother': 'Baldwin III'}
+['king (1163-1174), kingdom of Jerusalem']"]
+	395 -> 359
+	651 [label="Henry I
+651
+December 1, 1135
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'daughter': 'Matilda', 'son': 'Robert, earl of Gloucester', 'brother': 'William II', 'sister': 'Adela'}
+['king (1100-1135), England']
+['house of Normandy']"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	651 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	651 -> 107
+	805 [label="Matilda Of Flanders
+805
+['1083']
+{'spouse': 'William I'}"]
+	651 -> 805
+	219 [label="Matilda
+219
+September 10, 1167
+{'spouse': 'Geoffrey IV', 'father': 'Henry I', 'son': 'Henry II', 'brother': 'William the Aetheling'}"]
+	651 -> 219
+	446 [label="Robert, earl of Gloucester
+446
+October 31, 1147"]
+	651 -> 446
+	525 [label="William II
+525
+August 2, 1100
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'brother': 'Robert II', 'sister': 'Adela'}
+['king (1087-1100), England']
+['house of Normandy']"]
+	651 -> 525
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	651 -> 643
+	830 [label="William the Aetheling
+830
+November 25, 1120
+{'father': 'Henry I', 'sister': 'Matilda'}"]
+	651 [label="Henry I
+651
+December 1, 1135
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'daughter': 'Matilda', 'son': 'Robert, earl of Gloucester', 'brother': 'William II', 'sister': 'Adela'}
+['king (1100-1135), England']
+['house of Normandy']"]
+	830 -> 651
+	219 [label="Matilda
+219
+September 10, 1167
+{'spouse': 'Geoffrey IV', 'father': 'Henry I', 'son': 'Henry II', 'brother': 'William the Aetheling'}"]
+	830 -> 219
+	255 [label="Louis VI
+255
+August 1, 1137
+['king (1108-1137), France']
+['Capetian dynasty']"]
+	162 [label="Alfonso IX
+162
+September 24, 1230
+{'father': 'Ferdinand II', 'son': 'Ferdinand III'}
+['king (1188-1230), Leon']"]
+	375 [label="Ferdinand II
+375
+August 22, 1188
+{'father': 'Alfonso VII', 'son': 'Alfonso IX', 'brother': 'Sancho III'}
+['king (1157-1188), Leon']"]
+	162 -> 375
+	110 [label="Ferdinand III
+110
+May 30, 1252
+{'father': 'Alfonso IX', 'daughter': 'Eleanor Of Castile', 'son': 'Alfonso X'}
+['king (1230-1252), Leon ', ' king (1217-1252), Castile']"]
+	162 -> 110
+	489 [label="Alfonso X
+489
+April 4, 1284
+{'father': 'Ferdinand III', 'son': 'Sancho IV'}
+['king (1252-1284), Castile']"]
+	110 [label="Ferdinand III
+110
+May 30, 1252
+{'father': 'Alfonso IX', 'daughter': 'Eleanor Of Castile', 'son': 'Alfonso X'}
+['king (1230-1252), Leon ', ' king (1217-1252), Castile']"]
+	489 -> 110
+	416 [label="Sancho IV
+416
+April 25, 1295
+{'father': 'Alfonso X', 'son': 'Ferdinand IV'}
+['king (1284-1295), Castile']"]
+	489 -> 416
+	481 [label="Sancho IV
+481
+['1076 ', ' Navarra ', ' Spain']
+{'father': 'GarcÃ\xada III (or IV)'}
+['king (1054-1076), Navarra']"]
+	489 -> 481
+	408 [label="Philip IV
+408
+November 29, 1314
+{'spouse': 'Joan I', 'daughter': 'Isabella of France'}
+['king (1285-1314), France']
+['Capetian dynasty']"]
+	454 [label="Joan I
+454
+April 2, 1305"]
+	408 -> 454
+	502 [label="Isabella of France
+502
+August 23, 1358
+{'spouse': 'Edward II', 'father': 'Philip IV', 'son': 'Edward III'}"]
+	408 -> 502
+	381 [label="Philippa Of Hainaut
+381
+August 15, 1369
+{'spouse': 'Edward III', 'son': 'Edward The Black Prince'}"]
+	426 [label="Edward III
+426
+June 21, 1377
+{'spouse': 'Philippa Of Hainaut', 'father': 'Edward II', 'mother': 'Isabella of France', 'son': 'Edward The Black Prince'}
+['king (1327-1377), England']
+['house of Plantagenet']"]
+	381 -> 426
+	473 [label="Edward The Black Prince
+473
+June 8, 1376
+{'father': 'Edward III', 'mother': 'Philippa Of Hainaut', 'son': 'Richard II'}"]
+	381 -> 473
+	473 [label="Edward The Black Prince
+473
+June 8, 1376
+{'father': 'Edward III', 'mother': 'Philippa Of Hainaut', 'son': 'Richard II'}"]
+	426 [label="Edward III
+426
+June 21, 1377
+{'spouse': 'Philippa Of Hainaut', 'father': 'Edward II', 'mother': 'Isabella of France', 'son': 'Edward The Black Prince'}
+['king (1327-1377), England']
+['house of Plantagenet']"]
+	473 -> 426
+	381 [label="Philippa Of Hainaut
+381
+August 15, 1369
+{'spouse': 'Edward III', 'son': 'Edward The Black Prince'}"]
+	473 -> 381
+	136 [label="Richard II
+136
+['February 1400 (aged 33) ', ' Pontefract ', ' England']
+{'father': 'Edward The Black Prince'}
+['king (1377-1399), England']
+['house of Plantagenet']"]
+	473 -> 136
+	530 [label="Richard II
+530
+{'father': 'Richard I', 'son': 'Robert I'}"]
+	473 -> 530
+	462 [label="Fulk IV
+462
+April 14, 1109
+{'son': 'Fulk'}"]
+	395 [label="Fulk
+395
+['November 1143 (aged 51) ', ' Ê¿Akko ', ' Israel']
+{'father': 'Fulk IV', 'son': 'Amalric I'}
+['king (1131-1143), kingdom of Jerusalem']"]
+	462 -> 395
+	284 [label="Baldwin III
+284
+February 10, 1163
+{'father': 'Fulk', 'brother': 'Amalric I'}
+['king (1143-1163), kingdom of Jerusalem']"]
+	395 [label="Fulk
+395
+['November 1143 (aged 51) ', ' Ê¿Akko ', ' Israel']
+{'father': 'Fulk IV', 'son': 'Amalric I'}
+['king (1131-1143), kingdom of Jerusalem']"]
+	284 -> 395
+	359 [label="Amalric I
+359
+July 11, 1174
+{'father': 'Fulk', 'son': 'Baldwin IV', 'brother': 'Baldwin III'}
+['king (1163-1174), kingdom of Jerusalem']"]
+	284 -> 359
+	359 [label="Amalric I
+359
+July 11, 1174
+{'father': 'Fulk', 'son': 'Baldwin IV', 'brother': 'Baldwin III'}
+['king (1163-1174), kingdom of Jerusalem']"]
+	395 [label="Fulk
+395
+['November 1143 (aged 51) ', ' Ê¿Akko ', ' Israel']
+{'father': 'Fulk IV', 'son': 'Amalric I'}
+['king (1131-1143), kingdom of Jerusalem']"]
+	359 -> 395
+	130 [label="Baldwin IV
+130
+['March 1185 (aged 24) ', ' Jerusalem ', ' Israel']
+{'father': 'Amalric I'}
+['king (1174-1185), kingdom of Jerusalem']"]
+	359 -> 130
+	284 [label="Baldwin III
+284
+February 10, 1163
+{'father': 'Fulk', 'brother': 'Amalric I'}
+['king (1143-1163), kingdom of Jerusalem']"]
+	359 -> 284
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	805 [label="Matilda Of Flanders
+805
+['1083']
+{'spouse': 'William I'}"]
+	448 -> 805
+	856 [label="Robert I
+856
+{'father': 'Richard II', 'son': 'William I', 'brother': 'Richard III'}"]
+	448 -> 856
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	448 -> 643
+	651 [label="Henry I
+651
+December 1, 1135
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'daughter': 'Matilda', 'son': 'Robert, earl of Gloucester', 'brother': 'William II', 'sister': 'Adela'}
+['king (1100-1135), England']
+['house of Normandy']"]
+	448 -> 651
+	805 [label="Matilda Of Flanders
+805
+['1083']
+{'spouse': 'William I'}"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	805 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	805 -> 107
+	446 [label="Robert, earl of Gloucester
+446
+October 31, 1147"]
+	432 [label="Robert II
+432
+['February 1134 ', ' Cardiff ', ' Wales']
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'son': 'William Clito', 'brother': 'Henry I', 'sister': 'Adela'}
+['house of Normandy']"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	432 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	432 -> 107
+	805 [label="Matilda Of Flanders
+805
+['1083']
+{'spouse': 'William I'}"]
+	432 -> 805
+	169 [label="William Clito
+169
+July 28, 1128
+{'father': 'Robert II'}"]
+	432 -> 169
+	651 [label="Henry I
+651
+December 1, 1135
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'daughter': 'Matilda', 'son': 'Robert, earl of Gloucester', 'brother': 'William II', 'sister': 'Adela'}
+['king (1100-1135), England']
+['house of Normandy']"]
+	432 -> 651
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	432 -> 643
+	525 [label="William II
+525
+August 2, 1100
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'brother': 'Robert II', 'sister': 'Adela'}
+['king (1087-1100), England']
+['house of Normandy']"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	525 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	525 -> 107
+	805 [label="Matilda Of Flanders
+805
+['1083']
+{'spouse': 'William I'}"]
+	525 -> 805
+	432 [label="Robert II
+432
+['February 1134 ', ' Cardiff ', ' Wales']
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'son': 'William Clito', 'brother': 'Henry I', 'sister': 'Adela'}
+['house of Normandy']"]
+	525 -> 432
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	525 -> 643
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	643 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	643 -> 107
+	845 [label="Stephen
+845
+October 25, 1154
+{'mother': 'Adela', 'brother': 'Theobald IV'}
+['king (1135-1154), England']
+['Blois ', ' house of Normandy']"]
+	643 -> 845
+	525 [label="William II
+525
+August 2, 1100
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'brother': 'Robert II', 'sister': 'Adela'}
+['king (1087-1100), England']
+['house of Normandy']"]
+	643 -> 525
+	375 [label="Ferdinand II
+375
+August 22, 1188
+{'father': 'Alfonso VII', 'son': 'Alfonso IX', 'brother': 'Sancho III'}
+['king (1157-1188), Leon']"]
+	551 [label="Alfonso VII
+551
+['August 1157 ', ' Castile ', ' Spain']
+{'mother': 'Urraca', 'son': 'Sancho III'}
+['emperor (1126-1157), Castile ', ' king (1126-1157), Castile']"]
+	375 -> 551
+	162 [label="Alfonso IX
+162
+September 24, 1230
+{'father': 'Ferdinand II', 'son': 'Ferdinand III'}
+['king (1188-1230), Leon']"]
+	375 -> 162
+	811 [label="Sancho III
+811
+August 31, 1158
+{'father': 'Alfonso VII', 'brother': 'Ferdinand II'}
+['king (1157-1158), Castile']"]
+	375 -> 811
+	416 [label="Sancho IV
+416
+April 25, 1295
+{'father': 'Alfonso X', 'son': 'Ferdinand IV'}
+['king (1284-1295), Castile']"]
+	489 [label="Alfonso X
+489
+April 4, 1284
+{'father': 'Ferdinand III', 'son': 'Sancho IV'}
+['king (1252-1284), Castile']"]
+	416 -> 489
+	874 [label="Ferdinand IV
+874
+September 7, 1312
+{'father': 'Sancho IV'}
+['king (1295-1312), Castile']"]
+	416 -> 874
+	454 [label="Joan I
+454
+April 2, 1305"]
+	136 [label="Richard II
+136
+['February 1400 (aged 33) ', ' Pontefract ', ' England']
+{'father': 'Edward The Black Prince'}
+['king (1377-1399), England']
+['house of Plantagenet']"]
+	473 [label="Edward The Black Prince
+473
+June 8, 1376
+{'father': 'Edward III', 'mother': 'Philippa Of Hainaut', 'son': 'Richard II'}"]
+	136 -> 473
+	130 [label="Baldwin IV
+130
+['March 1185 (aged 24) ', ' Jerusalem ', ' Israel']
+{'father': 'Amalric I'}
+['king (1174-1185), kingdom of Jerusalem']"]
+	359 [label="Amalric I
+359
+July 11, 1174
+{'father': 'Fulk', 'son': 'Baldwin IV', 'brother': 'Baldwin III'}
+['king (1163-1174), kingdom of Jerusalem']"]
+	130 -> 359
+	856 [label="Robert I
+856
+{'father': 'Richard II', 'son': 'William I', 'brother': 'Richard III'}"]
+	136 [label="Richard II
+136
+['February 1400 (aged 33) ', ' Pontefract ', ' England']
+{'father': 'Edward The Black Prince'}
+['king (1377-1399), England']
+['house of Plantagenet']"]
+	856 -> 136
+	530 [label="Richard II
+530
+{'father': 'Richard I', 'son': 'Robert I'}"]
+	856 -> 530
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	856 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	856 -> 107
+	282 [label="Richard III
+282"]
+	856 -> 282
+	169 [label="William Clito
+169
+July 28, 1128
+{'father': 'Robert II'}"]
+	432 [label="Robert II
+432
+['February 1134 ', ' Cardiff ', ' Wales']
+{'father': 'William I', 'mother': 'Matilda Of Flanders', 'son': 'William Clito', 'brother': 'Henry I', 'sister': 'Adela'}
+['house of Normandy']"]
+	169 -> 432
+	845 [label="Stephen
+845
+October 25, 1154
+{'mother': 'Adela', 'brother': 'Theobald IV'}
+['king (1135-1154), England']
+['Blois ', ' house of Normandy']"]
+	643 [label="Adela
+643
+['1137']
+{'father': 'William I', 'son': 'Stephen', 'brother': 'William II'}
+['house of Normandy']"]
+	845 -> 643
+	866 [label="Theobald IV
+866
+January 10, 1152"]
+	845 -> 866
+	551 [label="Alfonso VII
+551
+['August 1157 ', ' Castile ', ' Spain']
+{'mother': 'Urraca', 'son': 'Sancho III'}
+['emperor (1126-1157), Castile ', ' king (1126-1157), Castile']"]
+	319 [label="Urraca
+319
+March 8, 1126
+{'spouse': 'Alfonso I', 'father': 'Alfonso VI', 'son': 'Alfonso VII'}"]
+	551 -> 319
+	811 [label="Sancho III
+811
+August 31, 1158
+{'father': 'Alfonso VII', 'brother': 'Ferdinand II'}
+['king (1157-1158), Castile']"]
+	551 -> 811
+	811 [label="Sancho III
+811
+August 31, 1158
+{'father': 'Alfonso VII', 'brother': 'Ferdinand II'}
+['king (1157-1158), Castile']"]
+	551 [label="Alfonso VII
+551
+['August 1157 ', ' Castile ', ' Spain']
+{'mother': 'Urraca', 'son': 'Sancho III'}
+['emperor (1126-1157), Castile ', ' king (1126-1157), Castile']"]
+	811 -> 551
+	375 [label="Ferdinand II
+375
+August 22, 1188
+{'father': 'Alfonso VII', 'son': 'Alfonso IX', 'brother': 'Sancho III'}
+['king (1157-1188), Leon']"]
+	811 -> 375
+	874 [label="Ferdinand IV
+874
+September 7, 1312
+{'father': 'Sancho IV'}
+['king (1295-1312), Castile']"]
+	416 [label="Sancho IV
+416
+April 25, 1295
+{'father': 'Alfonso X', 'son': 'Ferdinand IV'}
+['king (1284-1295), Castile']"]
+	874 -> 416
+	481 [label="Sancho IV
+481
+['1076 ', ' Navarra ', ' Spain']
+{'father': 'GarcÃ\xada III (or IV)'}
+['king (1054-1076), Navarra']"]
+	874 -> 481
+	530 [label="Richard II
+530
+{'father': 'Richard I', 'son': 'Robert I'}"]
+	899 [label="Richard I
+899
+April 6, 1199
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'Geoffrey IV'}
+['king (1189-1199), England']
+['house of Plantagenet']"]
+	530 -> 899
+	855 [label="Richard I
+855
+['996']
+{'father': 'William I', 'son': 'Richard II'}"]
+	530 -> 855
+	856 [label="Robert I
+856
+{'father': 'Richard II', 'son': 'William I', 'brother': 'Richard III'}"]
+	530 -> 856
+	282 [label="Richard III
+282"]
+	866 [label="Theobald IV
+866
+January 10, 1152"]
+	319 [label="Urraca
+319
+March 8, 1126
+{'spouse': 'Alfonso I', 'father': 'Alfonso VI', 'son': 'Alfonso VII'}"]
+	108 [label="Alfonso I
+108
+['September 1134']
+{'spouse': 'Urraca', 'father': 'Sancho RamÃ\xadrez'}
+['king (1104-1134), Aragon']"]
+	319 -> 108
+	194 [label="Alfonso VI
+194
+['1109 ', ' Toledo ', ' Castile']
+{'father': 'Ferdinand I', 'daughter': 'Urraca', 'brother': 'GarcÃ\xada II'}
+['king (1072-1109), Castile ', ' king (1065-1070), Leon']"]
+	319 -> 194
+	551 [label="Alfonso VII
+551
+['August 1157 ', ' Castile ', ' Spain']
+{'mother': 'Urraca', 'son': 'Sancho III'}
+['emperor (1126-1157), Castile ', ' king (1126-1157), Castile']"]
+	319 -> 551
+	855 [label="Richard I
+855
+['996']
+{'father': 'William I', 'son': 'Richard II'}"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	855 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	855 -> 107
+	136 [label="Richard II
+136
+['February 1400 (aged 33) ', ' Pontefract ', ' England']
+{'father': 'Edward The Black Prince'}
+['king (1377-1399), England']
+['house of Plantagenet']"]
+	855 -> 136
+	530 [label="Richard II
+530
+{'father': 'Richard I', 'son': 'Robert I'}"]
+	855 -> 530
+	108 [label="Alfonso I
+108
+['September 1134']
+{'spouse': 'Urraca', 'father': 'Sancho RamÃ\xadrez'}
+['king (1104-1134), Aragon']"]
+	319 [label="Urraca
+319
+March 8, 1126
+{'spouse': 'Alfonso I', 'father': 'Alfonso VI', 'son': 'Alfonso VII'}"]
+	108 -> 319
+	865 [label="Sancho RamÃ­rez
+865
+July 6, 1094
+{'father': 'Ramiro I', 'son': 'Alfonso I'}
+['king (1063-1094), Aragon']"]
+	108 -> 865
+	194 [label="Alfonso VI
+194
+['1109 ', ' Toledo ', ' Castile']
+{'father': 'Ferdinand I', 'daughter': 'Urraca', 'brother': 'GarcÃ\xada II'}
+['king (1072-1109), Castile ', ' king (1065-1070), Leon']"]
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	194 -> 379
+	319 [label="Urraca
+319
+March 8, 1126
+{'spouse': 'Alfonso I', 'father': 'Alfonso VI', 'son': 'Alfonso VII'}"]
+	194 -> 319
+	154 [label="GarcÃ­a II
+154
+March 22, 1090
+{'father': 'Ferdinand I', 'brother': 'Sancho II'}
+['king (1065-1071), Galicia']"]
+	194 -> 154
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	822 [label="Rollo
+822
+['c.932']
+{'son': 'William I'}"]
+	107 -> 822
+	899 [label="Richard I
+899
+April 6, 1199
+{'father': 'Henry II', 'mother': 'Eleanor of Aquitaine', 'brother': 'Geoffrey IV'}
+['king (1189-1199), England']
+['house of Plantagenet']"]
+	107 -> 899
+	855 [label="Richard I
+855
+['996']
+{'father': 'William I', 'son': 'Richard II'}"]
+	107 -> 855
+	865 [label="Sancho RamÃ­rez
+865
+July 6, 1094
+{'father': 'Ramiro I', 'son': 'Alfonso I'}
+['king (1063-1094), Aragon']"]
+	386 [label="Ramiro I
+386
+March 8, 1063
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho RamÃ\xadrez', 'brother': 'Ferdinand I'}
+['king (1035-1063), Aragon']"]
+	865 -> 386
+	108 [label="Alfonso I
+108
+['September 1134']
+{'spouse': 'Urraca', 'father': 'Sancho RamÃ\xadrez'}
+['king (1104-1134), Aragon']"]
+	865 -> 108
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	499 [label="Sancho III GarcÃ©s
+499
+October 18, 1035
+{'father': 'GarcÃ\xada II (or III)', 'son': 'Ferdinand I'}
+['king (1000-1035), Kingdom of Navarre']"]
+	379 -> 499
+	261 [label="Sancho II
+261
+October 6, 1072
+{'father': 'Ferdinand I', 'brother': 'GarcÃ\xada II'}"]
+	379 -> 261
+	616 [label="GarcÃ­a III (or IV)
+616
+September 1, 1054
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho IV', 'brother': 'Ramiro I'}
+['king (1035-1054), Navarra']"]
+	379 -> 616
+	261 [label="Sancho II
+261
+October 6, 1072
+{'father': 'Ferdinand I', 'brother': 'GarcÃ\xada II'}"]
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	261 -> 379
+	154 [label="GarcÃ­a II
+154
+March 22, 1090
+{'father': 'Ferdinand I', 'brother': 'Sancho II'}
+['king (1065-1071), Galicia']"]
+	261 -> 154
+	154 [label="GarcÃ­a II
+154
+March 22, 1090
+{'father': 'Ferdinand I', 'brother': 'Sancho II'}
+['king (1065-1071), Galicia']"]
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	154 -> 379
+	261 [label="Sancho II
+261
+October 6, 1072
+{'father': 'Ferdinand I', 'brother': 'GarcÃ\xada II'}"]
+	154 -> 261
+	822 [label="Rollo
+822
+['c.932']
+{'son': 'William I'}"]
+	448 [label="William I
+448
+September 9, 1087
+{'spouse': 'Matilda Of Flanders', 'father': 'Robert I', 'daughter': 'Adela', 'son': 'Henry I'}
+['king (1066-1087), England ', ' duke (1035-1087), Normandy']
+['house of Normandy']"]
+	822 -> 448
+	107 [label="William I
+107
+['December 17, 942 ', ' France']
+{'father': 'Rollo', 'son': 'Richard I'}"]
+	822 -> 107
+	386 [label="Ramiro I
+386
+March 8, 1063
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho RamÃ\xadrez', 'brother': 'Ferdinand I'}
+['king (1035-1063), Aragon']"]
+	499 [label="Sancho III GarcÃ©s
+499
+October 18, 1035
+{'father': 'GarcÃ\xada II (or III)', 'son': 'Ferdinand I'}
+['king (1000-1035), Kingdom of Navarre']"]
+	386 -> 499
+	865 [label="Sancho RamÃ­rez
+865
+July 6, 1094
+{'father': 'Ramiro I', 'son': 'Alfonso I'}
+['king (1063-1094), Aragon']"]
+	386 -> 865
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	386 -> 379
+	499 [label="Sancho III GarcÃ©s
+499
+October 18, 1035
+{'father': 'GarcÃ\xada II (or III)', 'son': 'Ferdinand I'}
+['king (1000-1035), Kingdom of Navarre']"]
+	277 [label="GarcÃ­a II (or III)
+277
+['1005']
+{'father': 'Sancho II GarcÃ©s', 'son': 'Sancho III GarcÃ©s'}
+['king (994-1000), Navarra']"]
+	499 -> 277
+	379 [label="Ferdinand I
+379
+December 27, 1065
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho II', 'brother': 'GarcÃ\xada III (or IV)'}
+['emperor (1039-1065), Leon ', ' king (1035-1065), Castile']"]
+	499 -> 379
+	616 [label="GarcÃ­a III (or IV)
+616
+September 1, 1054
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho IV', 'brother': 'Ramiro I'}
+['king (1035-1054), Navarra']"]
+	499 [label="Sancho III GarcÃ©s
+499
+October 18, 1035
+{'father': 'GarcÃ\xada II (or III)', 'son': 'Ferdinand I'}
+['king (1000-1035), Kingdom of Navarre']"]
+	616 -> 499
+	416 [label="Sancho IV
+416
+April 25, 1295
+{'father': 'Alfonso X', 'son': 'Ferdinand IV'}
+['king (1284-1295), Castile']"]
+	616 -> 416
+	481 [label="Sancho IV
+481
+['1076 ', ' Navarra ', ' Spain']
+{'father': 'GarcÃ\xada III (or IV)'}
+['king (1054-1076), Navarra']"]
+	616 -> 481
+	386 [label="Ramiro I
+386
+March 8, 1063
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho RamÃ\xadrez', 'brother': 'Ferdinand I'}
+['king (1035-1063), Aragon']"]
+	616 -> 386
+	277 [label="GarcÃ­a II (or III)
+277
+['1005']
+{'father': 'Sancho II GarcÃ©s', 'son': 'Sancho III GarcÃ©s'}
+['king (994-1000), Navarra']"]
+	403 [label="Sancho II GarcÃ©s
+403
+['c.994']
+{'father': 'GarcÃ\xada I (or II) Sanchez', 'son': 'GarcÃ\xada II (or III)'}
+['king (970-994), Navarra']"]
+	277 -> 403
+	499 [label="Sancho III GarcÃ©s
+499
+October 18, 1035
+{'father': 'GarcÃ\xada II (or III)', 'son': 'Ferdinand I'}
+['king (1000-1035), Kingdom of Navarre']"]
+	277 -> 499
+	481 [label="Sancho IV
+481
+['1076 ', ' Navarra ', ' Spain']
+{'father': 'GarcÃ\xada III (or IV)'}
+['king (1054-1076), Navarra']"]
+	616 [label="GarcÃ­a III (or IV)
+616
+September 1, 1054
+{'father': 'Sancho III GarcÃ©s', 'son': 'Sancho IV', 'brother': 'Ramiro I'}
+['king (1035-1054), Navarra']"]
+	481 -> 616
+	403 [label="Sancho II GarcÃ©s
+403
+['c.994']
+{'father': 'GarcÃ\xada I (or II) Sanchez', 'son': 'GarcÃ\xada II (or III)'}
+['king (970-994), Navarra']"]
+	654 [label="GarcÃ­a I (or II) Sanchez
+654
+['970']
+{'father': 'Sancho I GarcÃ©s', 'son': 'Sancho II GarcÃ©s'}
+['king (925-970), Navarra']"]
+	403 -> 654
+	277 [label="GarcÃ­a II (or III)
+277
+['1005']
+{'father': 'Sancho II GarcÃ©s', 'son': 'Sancho III GarcÃ©s'}
+['king (994-1000), Navarra']"]
+	403 -> 277
+	654 [label="GarcÃ­a I (or II) Sanchez
+654
+['970']
+{'father': 'Sancho I GarcÃ©s', 'son': 'Sancho II GarcÃ©s'}
+['king (925-970), Navarra']"]
+	155 [label="Sancho I GarcÃ©s
+155"]
+	654 -> 155
+	403 [label="Sancho II GarcÃ©s
+403
+['c.994']
+{'father': 'GarcÃ\xada I (or II) Sanchez', 'son': 'GarcÃ\xada II (or III)'}
+['king (970-994), Navarra']"]
+	654 -> 403
+	155 [label="Sancho I GarcÃ©s
+155"]
+}
