@@ -1,6 +1,6 @@
 #A-Flow-Graph-Representation-f-a-Family-Genealogy
 
-  Note: BeautifulSoup package must be installed for this to work on your computer
+  Note: Both BeautifulSoup and Graphviz packages must be installed for this to work on your computer
 
   The flow graph representation of a family lineage is designed to extract data from the website Britannica, organize it in a file, and display the relationships among historical figures using a flow chart. Through the visual representation of family graphs, the user will be able to learn about vast, familial networks that have spanned multiple generations, extended through nations, and survived to the present day – as long as the website permits.
   
